@@ -77,6 +77,7 @@ This project demonstrates the implementation of various SQL concepts, including:
 - Git
 - GitHub
 
+<<<<<<< HEAD
 ## Project Files
 
 ### Source Code
@@ -119,3 +120,5 @@ Inventory-Tracker-SQL
 
 
 
+=======
+>>>>>>> 99a722f (Added screenshots and updated README)
