@@ -78,6 +78,7 @@ This project demonstrates the implementation of various SQL concepts, including:
 - GitHub
 
 <<<<<<< HEAD
+
 ## Project Files
 
 ### Source Code
